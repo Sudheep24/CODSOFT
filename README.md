@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Sudheep 👋
 
 I'm a passionate tech enthusiast and a student with a focus on front-end development, UI/UX design, and graphic design. My journey involves exploring new technologies while aspiring to create aesthetically pleasing and user-friendly digital experiences.
 
